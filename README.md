@@ -1,8 +1,8 @@
 # Deep learning course for HSE Master’s Programme "Machine Learning and Data-Intensive Systems"
 
 #### This course is strongly based on materials from other great HSE DL courses:
-1. https://github.com/yandexdataschool/Practical_DL
-2. https://github.com/hse-ds/iad-deep-learning
+1. https://github.com/hse-ds/iad-deep-learning
+2. https://github.com/yandexdataschool/Practical_DL
 
 All used materials from other cources has corresponding references.
 
@@ -16,7 +16,7 @@ Other ways to get additional points will be announced soon!
 
 # Syllabus
 
-1. Introduction to deep leaning and backpropagation
+1. Introduction to DL and backpropagation
 2. Deep leaning libraries
 3. Convolutional neural networks
 4. Modern architectures of convolutional neural networks
