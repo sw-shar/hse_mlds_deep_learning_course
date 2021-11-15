@@ -17,7 +17,7 @@ Other ways to get additional points will be announced soon!
 # Syllabus
 
 1. Introduction to DL and backpropagation
-2. Deep leaning libraries
+2. DL libraries
 3. Convolutional neural networks
 4. Modern architectures of convolutional neural networks
 5. Metric learning
