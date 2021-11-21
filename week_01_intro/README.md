@@ -7,7 +7,7 @@
 
 ## Overview of gradient descent optimization algorithms
 
-https://ruder.io/optimizing-gradient-descent/index.html#otherrecentoptimizers
+https://ruder.io/optimizing-gradient-descent/index.html
 
 https://johnchenresearch.github.io/demon/
 
