@@ -23,3 +23,5 @@ https://johnchenresearch.github.io/demon/
 
 
 http://playground.tensorflow.org/ - simple nn visualizer
+http://neuralnetworksanddeeplearning.com/chap4.html - Universal approximation theorem 1D example
+
