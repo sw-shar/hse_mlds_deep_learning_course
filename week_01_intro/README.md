@@ -8,6 +8,7 @@
 ## Overview of gradient descent optimization algorithms
 
 https://ruder.io/optimizing-gradient-descent/index.html#otherrecentoptimizers
+
 https://johnchenresearch.github.io/demon/
 
 ## Seminars
