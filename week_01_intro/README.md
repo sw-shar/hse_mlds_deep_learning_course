@@ -12,6 +12,10 @@ https://ruder.io/optimizing-gradient-descent/index.html
 
 https://johnchenresearch.github.io/demon/
 
+## About initialization
+
+https://andyljones.tumblr.com/post/110998971763/an-explanation-of-xavier-initialization
+
 
 ## Seminars
 * seminar [ slides](https://docs.google.com/presentation/d/1OKDtMxazo7nHRR8CuRkECL6hYXoonILZwymcWbU9btM/edit?usp=sharing)
