@@ -5,9 +5,6 @@
 * [iad-deep-learning: Intro ](https://www.youtube.com/watch?v=62sP9QKYrgI&list=PLEwK9wdS5g0qa3PIhR6HBDJD_QnrfP8Ei&index=1)
 * [iad-deep-learning: Backprop](https://www.youtube.com/watch?v=aSTwlPjJfso&list=PLEwK9wdS5g0qa3PIhR6HBDJD_QnrfP8Ei&index=2)
 
-* [counsera/intro-to-deep-learning week 1 (optimisation)](https://www.coursera.org/learn/intro-to-deep-learning#about)
-* [counsera/intro-to-deep-learning week 2 (tensorflow not needed!!)](https://www.coursera.org/learn/intro-to-deep-learning#about)
-
 
 
 
