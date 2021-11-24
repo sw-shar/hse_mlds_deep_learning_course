@@ -6,6 +6,10 @@
 
 All used materials from other cources has corresponding references.
 
+# Videos from seminars
+
+https://www.youtube.com/playlist?list=PLDa1nku7NnMlRfI3jvKJ7mzYPXrHafQY5
+
 # Grading
 
 Your Grade = round(0.3 * hw_1  + 0.3 * hw_2 + 0.3 * hw_3 + 0.1 * exam)
