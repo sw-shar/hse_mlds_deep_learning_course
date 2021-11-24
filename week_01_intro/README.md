@@ -13,7 +13,7 @@
 * YSDA sgd notebook [seminar](https://github.com/yandexdataschool/Practical_DL/blob/fall21/week01_backprop/adapdive_sgd/adaptive_sgd.ipynb)
 
 
-## Optional homework (0.5 point max)
+## Optional homework (0.5 point)
 At the seminar, we implemented a simple neural network from scratch (YSDA backprop notebook). Now you need to write some modified versions of the dense layer:
 
 1) DenseXavier - add Xavier initialisation
