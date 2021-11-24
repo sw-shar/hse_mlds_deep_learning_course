@@ -6,7 +6,7 @@
 
 All used materials from other cources has corresponding references.
 
-# Grading [[grades table]](https://docs.google.com/spreadsheets/d/1I2re8tz1i4tjVVm1xK10C7h4FTOITFcUW_xK8Jpa_ns/edit?usp=sharing)
+# Grading [[grades]](https://docs.google.com/spreadsheets/d/1HsnOGvWdisYb4MHoCPfKvdNIit2IohSrhOayFPP_Q00/edit?usp=sharing)
 
 Your Grade = round(0.3 * hw_1  + 0.3 * hw_2 + 0.3 * hw_3 + 0.1 * exam)
 
