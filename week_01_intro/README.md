@@ -8,6 +8,7 @@
 
 ## Seminars
 * seminar [slides](https://docs.google.com/presentation/d/1OKDtMxazo7nHRR8CuRkECL6hYXoonILZwymcWbU9btM/edit?usp=sharing)
+* seminar [video](https://www.youtube.com/watch?v=uQJuZxiAUVA&list=PLDa1nku7NnMlRfI3jvKJ7mzYPXrHafQY5)
 * YSDA backprop notebook [seminar](https://github.com/yandexdataschool/Practical_DL/blob/fall21/week01_backprop/backprop.ipynb)
 * YSDA sgd notebook [seminar](https://github.com/yandexdataschool/Practical_DL/blob/fall21/week01_backprop/adapdive_sgd/adaptive_sgd.ipynb)
 
