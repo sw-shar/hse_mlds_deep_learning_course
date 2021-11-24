@@ -1,4 +1,4 @@
-# Deep learning course for HSE Master’s Programme "Machine Learning and Data-Intensive Systems"
+# Deep learning course for HSE Master’s Programme "Machine Learning and Data-Intensive Systems" [[videos]](https://www.youtube.com/playlist?list=PLDa1nku7NnMlRfI3jvKJ7mzYPXrHafQY5)
 
 #### This course is strongly based on materials from other great HSE DL courses:
 1. https://github.com/hse-ds/iad-deep-learning
@@ -6,16 +6,22 @@
 
 All used materials from other cources has corresponding references.
 
-# Videos from seminars
-
-https://www.youtube.com/playlist?list=PLDa1nku7NnMlRfI3jvKJ7mzYPXrHafQY5
-
-# Grading
+# Grading [[grades table]](https://docs.google.com/spreadsheets/d/1I2re8tz1i4tjVVm1xK10C7h4FTOITFcUW_xK8Jpa_ns/edit?usp=sharing)
 
 Your Grade = round(0.3 * hw_1  + 0.3 * hw_2 + 0.3 * hw_3 + 0.1 * exam)
 
-Other ways to get additional points will be announced soon!
+Also, some weeks contain additional homeworks with extra points
 
+# Homeworks
+### Submission
+All homework assignments should be sent to me personally in slack with the names:
+
+**"{surname}\_\_hw\_{number}\.zip"** or **"{surname}\_\_ehw\_{week_number}\.zip"** (for extra homeworks).
+
+### Deadlines 
+The deadline for completing homework will be announced along with the homework.
+
+Deadline for every extra homework **is next seminar**.
 
 
 # Syllabus
@@ -34,18 +40,3 @@ Other ways to get additional points will be announced soon!
 12. Graph models
 13. Reinforcement Learning
 14. Additional deep Learning topics
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
