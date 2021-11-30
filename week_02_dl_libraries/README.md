@@ -13,7 +13,7 @@ Optimisation alternative 2:
 
 **Regularization**
 * [coursera/intro-to-deep-learning/model-regularization](https://www.coursera.org/learn/intro-to-deep-learning/lecture/qW00l/model-regularization)
-* [iad-deep-learning optimisation](https://www.youtube.com/watch?v=7ljQTZ8HT-A&list=PLEwK9wdS5g0qa3PIhR6HBDJD_QnrfP8Ei&index=28) You can skip the last 10 minutes about augmentation for now.
+* [iad-deep-learning Regularization](https://www.youtube.com/watch?v=7ljQTZ8HT-A&list=PLEwK9wdS5g0qa3PIhR6HBDJD_QnrfP8Ei&index=28) You can skip the last 10 minutes about augmentation for now.
 
 ## Seminar
 * Seminar slides coming soon
