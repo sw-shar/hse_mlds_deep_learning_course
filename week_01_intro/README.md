@@ -2,8 +2,10 @@
 
 
 ## Lectures
-* [Intro](https://www.youtube.com/watch?v=62sP9QKYrgI&list=PLEwK9wdS5g0qa3PIhR6HBDJD_QnrfP8Ei&index=1)
-* [Backprop](https://www.youtube.com/watch?v=aSTwlPjJfso&list=PLEwK9wdS5g0qa3PIhR6HBDJD_QnrfP8Ei&index=2)
+* [iad-deep-learning: Intro ](https://www.youtube.com/watch?v=62sP9QKYrgI&list=PLEwK9wdS5g0qa3PIhR6HBDJD_QnrfP8Ei&index=1)
+* [iad-deep-learning: Backprop](https://www.youtube.com/watch?v=aSTwlPjJfso&list=PLEwK9wdS5g0qa3PIhR6HBDJD_QnrfP8Ei&index=2)
+
+
 
 
 ## Seminar
