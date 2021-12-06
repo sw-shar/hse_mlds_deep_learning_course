@@ -20,6 +20,6 @@ Alternative 2 (short version):
 
 
 ## Homework (NOT optional) (1.5 points) (deadline 26.12.2021)
-We will solve[iad-deep-learning conv nets homework](https://github.com/hse-ds/iad-deep-learning/blob/master/2021/homeworks/hw02/hw2.ipynb). You need to solve **both** tasks. s. The final score is 0.5 * task1 + 0.5 * task2
+We will solve [iad-deep-learning conv nets homework](https://github.com/hse-ds/iad-deep-learning/blob/master/2021/homeworks/hw02/hw2.ipynb). You need to solve **both** tasks. s. The final score is 0.5 * task1 + 0.5 * task2
 
 
