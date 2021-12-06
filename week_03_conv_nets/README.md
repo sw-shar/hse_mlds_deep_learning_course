@@ -16,7 +16,8 @@ Alternative 2 (short version):
 
 ## Seminar
 * Seminar slides coming soon
-* [iad-deep-learning conv nets](https://github.com/hse-ds/iad-deep-learning/blob/master/2021/seminars/sem02/sem02_task.ipynb)
+* [iad-deep-learning conv nets week 2](https://github.com/hse-ds/iad-deep-learning/blob/master/2021/seminars/sem02/sem02_task.ipynb)
+* [iad-deep-learning conv nets week 3](https://github.com/hse-ds/iad-deep-learning/blob/master/2021/seminars/sem03/sem03_task.ipynb)
 
 
 ## Homework (NOT optional) (1.5 points) (deadline 26.12.2021)
