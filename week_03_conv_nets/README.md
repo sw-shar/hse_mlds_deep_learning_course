@@ -15,7 +15,7 @@ Alternative 2 (short version):
 * [coursera/intro-to-deep-learning/training-tips-and-tricks-for-deep-cnns (only about augmentation)](https://www.coursera.org/learn/intro-to-deep-learning/lecture/NGUMO/training-tips-and-tricks-for-deep-cnns)
 
 ## Seminar
-* Seminar slides coming soon
+* [slides](https://docs.google.com/presentation/d/11F-_VgfkTqVPgaIi23OpyHf7Gwzbwh1GxrdTuabNnRc/edit?usp=sharing)
 * [iad-deep-learning conv nets week 2](https://github.com/hse-ds/iad-deep-learning/blob/master/2021/seminars/sem02/sem02_task.ipynb)
 * [iad-deep-learning conv nets week 3](https://github.com/hse-ds/iad-deep-learning/blob/master/2021/seminars/sem03/sem03_task.ipynb)
 
