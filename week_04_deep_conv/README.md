@@ -6,5 +6,5 @@
 
 
 ## Seminar
-* Slides coming soon
+* [seminar slides](https://docs.google.com/presentation/d/1QPQRspfPwFe5-pR-T7Qtlygfh95FLpGjIkxDcoyPOSw/edit?usp=sharing)
 * [iad-deep-learning sem05](https://github.com/hse-ds/iad-deep-learning/blob/master/2021/seminars/sem05/sem05_solution.ipynb)
