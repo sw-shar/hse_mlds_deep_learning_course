@@ -14,9 +14,9 @@ Also, some weeks contain additional homeworks with extra points
 
 # Homeworks
 ### Submission
-All homework assignments should be sent to me personally in slack with the names:
+All homework assignments should be uploaded to Colab you just need to send me a link. It is also better to name the files like this:
 
-**"{surname}\_\_hw\_{number}\.zip"** or **"{surname}\_\_ehw\_{week_number}\.zip"** (for extra homeworks).
+**"{surname}\_\_hw\_{number}\.ipynb"** or **"{surname}\_\_ehw\_{week_number}\.ipynb"** (for extra homeworks).
 
 ### Deadlines 
 The deadline for completing homework will be announced along with the homework.
