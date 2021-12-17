@@ -7,4 +7,4 @@
 
 ## Seminar
 * [seminar slides](https://docs.google.com/presentation/d/1wakBExuoqjF1epZ-Qtu3ABRrXEDAmxp9CckApo7ePCE/edit?usp=sharing)
-* [iad-deep-learning sem05](https://github.com/hse-ds/iad-deep-learning/blob/master/2021/seminars/sem06/sem_06.ipynb)
+* [iad-deep-learning sem06](https://github.com/hse-ds/iad-deep-learning/blob/master/2021/seminars/sem06/sem_06.ipynb)
