@@ -8,4 +8,10 @@ Basics (coursera):
 
 
 ## Seminar
-Coming soon
+* [lyeoni/pytorch-mnist-GAN](https://github.com/lyeoni/pytorch-mnist-GAN/blob/master/pytorch-mnist-GAN.ipynb)
+* [lyeoni/pytorch-mnist-VAE](https://github.com/lyeoni/pytorch-mnist-VAE/blob/master/pytorch-mnist-VAE.ipynb)
+
+## Optional homework (0.5 points)
+* [yandexdataschool/adversarial_pytorch](https://github.com/yandexdataschool/Practical_DL/blob/fall21/week08_generative/adversarial_pytorch.ipynb)
+
+
