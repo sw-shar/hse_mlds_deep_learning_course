@@ -8,6 +8,7 @@ Basics (coursera):
 
 
 ## Seminar
+* [Slides](https://docs.google.com/presentation/d/1uAlqv5liHBQJZM5vqPR5IkDelmxcQDcQCxMO8DE4sVM/edit?usp=sharing)
 * [lyeoni/pytorch-mnist-GAN](https://github.com/lyeoni/pytorch-mnist-GAN/blob/master/pytorch-mnist-GAN.ipynb)
 * [lyeoni/pytorch-mnist-VAE](https://github.com/lyeoni/pytorch-mnist-VAE/blob/master/pytorch-mnist-VAE.ipynb)
 
