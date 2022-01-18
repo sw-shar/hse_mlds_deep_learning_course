@@ -7,3 +7,7 @@
 * [Practical_DL/week05_nlp/seminar.ipynb](https://github.com/yandexdataschool/Practical_DL/blob/fall21/week05_nlp/seminar.ipynb)
 
 * [Practical_DL/week05_nlp/part2_pytorch.ipynb](https://github.com/yandexdataschool/Practical_DL/blob/fall21/week05_nlp/part2_pytorch.ipynb)
+
+
+## Optional homework (0.5 point)
+* [Practical_DL/week05_nlp/part2_pytorch.ipynb](https://github.com/yandexdataschool/Practical_DL/blob/fall21/week05_nlp/part2_pytorch.ipynb) - hw at the end of notebook
