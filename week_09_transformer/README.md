@@ -6,4 +6,4 @@
 ## Seminar
 * [seminar slides](https://docs.google.com/presentation/d/1vbfwyhaKVou2xU7v_RVUMoyXRf-gsb20FCQQhQ7GhaE/edit?usp=sharing)
 
-* [yandexdataschool_nlp_course/week05_transfer/seminar.ipynb](https://github.com/yandexdataschool/nlp_course/blob/2021/week05_transfer/seminar.ipynb)
+* [yandexdata_school_nlp_course/week05_transfer/seminar.ipynb](https://github.com/yandexdataschool/nlp_course/blob/2021/week05_transfer/seminar.ipynb)
