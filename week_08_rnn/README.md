@@ -7,6 +7,13 @@
 
 
 
+## Seminar
+* [seminar slides](https://docs.google.com/presentation/d/1ca1vf3DbnznLRr5e_b4PbCxCmpVX6JkTTVVXPbWNcco/edit?usp=sharing)
+
+* [Practical_DL/week06_rnn/seminar_pytorch.ipynb](
+https://github.com/yandexdataschool/Practical_DL/blob/fall21/week06_rnn/seminar_pytorch.ipynb)
+* [iad-deep-learning/sem08/sem08_task.ipynb](https://github.com/hse-ds/iad-deep-learning/blob/master/2021/seminars/sem08/sem08_task.ipynb)
+
 
 ## Homework NLP (NOT optional)
 We will solve [iad-deep-learning nlp homework](https://github.com/hse-ds/iad-deep-learning/blob/master/2021/homeworks/hw03/hw3_kaggle.ipynb) with slight changes in scoring system:
