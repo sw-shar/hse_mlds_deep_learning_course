@@ -15,6 +15,10 @@ https://github.com/yandexdataschool/Practical_DL/blob/fall21/week06_rnn/seminar_
 * [iad-deep-learning/sem08/sem08_task.ipynb](https://github.com/hse-ds/iad-deep-learning/blob/master/2021/seminars/sem08/sem08_task.ipynb)
 
 
+
+## Optional homework (0.5 points)
+* [yandexdataschool/nlp_course/week04_seq2seq/practice_and_homework_pytorch.ipynb](https://github.com/yandexdataschool/nlp_course/blob/2021/week04_seq2seq/practice_and_homework_pytorch.ipynb) Only firt part (before attention).
+
 ## Homework NLP (NOT optional)
 We will solve [iad-deep-learning nlp homework](https://github.com/hse-ds/iad-deep-learning/blob/master/2021/homeworks/hw03/hw3_kaggle.ipynb) with slight changes in scoring system:
 
