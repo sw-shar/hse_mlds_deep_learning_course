@@ -26,4 +26,4 @@ Part 1: not only tf-idf needs to be done, but also "tf" and bag of words. Do a l
 
 Part 3: you need to make vanilla RNN, LSTM, transformer and use pre-trained bert. (each 1 point). Do a little comparison report.
 
-**Deadline 06.03.2022**
+**Deadline 20.03.2022**
